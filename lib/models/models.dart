@@ -1,0 +1,12 @@
+// lib/models/models.dart
+export 'user_model.dart';
+export 'product_model.dart';
+export 'category_model.dart';
+export 'supplier_model.dart';
+export 'customer_model.dart';
+export 'payment_model.dart';
+export 'cart_item_model.dart';
+export 'order_model.dart';
+export 'purchase_model.dart';
+export 'dashboard_model.dart';
+export 'promotion_model.dart';
